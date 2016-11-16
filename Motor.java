@@ -7,8 +7,6 @@ import lejos.hardware.lcd.LCD;
 import lejos.hardware.motor.Motor;
 import lejos.robotics.RegulatedMotor;
 
-
-
 public class motor {	
 
 	private static RegulatedMotor moteurGauche, moteurDroite, motorCentre;
